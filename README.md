@@ -17,7 +17,7 @@ The first step is to show information to the user. So in the first step we make 
           https://developers.google.com/ar/develop/unity/quickstart-android
 This works right out of the box. Clone the repo and build an make an apk and try it out on your ARCore supported Device.
 
-# #ow to use the project?
+## How to use the project?
 
 ### Note:
 
