@@ -16,3 +16,16 @@ Build Setting:
           * Checkout "Configure build settings" section in the given link.
           https://developers.google.com/ar/develop/unity/quickstart-android
 This works right out of the box. Clone the repo and build an make an apk and try it out on your ARCore supported Device.
+
+How to use the project?
+ Note: 
+ *You can directly download the apk file and run the app.
+ *Or, You can open the InteractiveAR project in unity(where you can explore the project, so as to learn more about the working) and build an app yourself.
+ 
+1) Install the app.
+2) Open the app and let it install ARCore if it asks to.(The app will prompt you to install ARCore if your device doesn't already has it. PS: It is important that your device is ARCore supported and has the ARCore app installed for this to work.)
+3) Detect the palin surfaces by hovering your camera over the plain surface.
+4) After the plain is detected (you will see it as it will be covered with a colored texture map) tap on the screen.
+5) An information board will be initialised, at the current position of the device, as soon as you tap.
+6) Move away from the board to ofind out that the board always faces you, no matter wherever you move.
+
