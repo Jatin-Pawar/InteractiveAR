@@ -18,9 +18,11 @@ Build Setting:
 This works right out of the box. Clone the repo and build an make an apk and try it out on your ARCore supported Device.
 
 How to use the project?
- Note: 
- *You can directly download the apk file and run the app.
- *Or, You can open the InteractiveAR project in unity(where you can explore the project, so as to learn more about the working) and build an app yourself.
+
+Note: 
+
+   *You can directly download the apk file and run the app.
+   *Or, You can open the InteractiveAR project in unity(where you can explore the project, so as to learn more about the working) and build an app yourself.
  
 1) Install the app.
 2) Open the app and let it install ARCore if it asks to.(The app will prompt you to install ARCore if your device doesn't already has it. PS: It is important that your device is ARCore supported and has the ARCore app installed for this to work.)
