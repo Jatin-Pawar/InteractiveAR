@@ -22,7 +22,7 @@ How to use the project?
 Note:
 
   * You can directly download the apk file and run the app.
-  * Or, You can open the InteractiveAR project in unity(where you can explore the project, so as to learn more about the working)       and build an app yourself.
+  * Or, You can open the InteractiveAR/InteractiveAR project in unity(where you can explore the project, so as to learn more about the working)       and build an app yourself.
  
  
 1) Install the app.
