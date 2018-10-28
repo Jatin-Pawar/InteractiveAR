@@ -32,3 +32,6 @@ This works right out of the box. Clone the repo and build an make an apk and try
 5) An information board will be initialised, at the current position of the device, as soon as you tap.
 6) Move away from the board to ofind out that the board always faces you, no matter wherever you move.
 
+## Demo
+https://drive.google.com/open?id=11Ecn1VnuMKU5u7HrABGhOsgi0Z0YK006
+
