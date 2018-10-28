@@ -33,5 +33,7 @@ This works right out of the box. Clone the repo and build an make an apk and try
 6) Move away from the board to ofind out that the board always faces you, no matter wherever you move.
 
 ## Demo
+![](https://media.giphy.com/media/1BhkssdUh8tOCLmX9j/giphy.gif)
+
 https://drive.google.com/open?id=11Ecn1VnuMKU5u7HrABGhOsgi0Z0YK006
 
