@@ -63,8 +63,8 @@ public class InteractivePlaneController : MonoBehaviour
 
 
                 // Move the position to stay consistent with the plane.
-                obj.transform.position = new Vector3(obj.transform.position.x,
-                            detectedPlane.CenterPose.position.y + yOffset, obj.transform.position.z);
+                //obj.transform.position = new Vector3(obj.transform.position.x,
+                            //detectedPlane.CenterPose.position.y + yOffset, obj.transform.position.z);
 
 
 
